@@ -1,6 +1,6 @@
 
 import './App.css'
-import ChangeColorText from './assets/components/TextColor'
+import ChangeColorText from './components/TextColor'
 
 function App() {
   
